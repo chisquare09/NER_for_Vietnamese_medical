@@ -71,7 +71,7 @@ The model's performance was evaluated using precision, recall, and F1-score metr
 - **High Accuracy:** Achieved high scores across various entity types, indicating robust performance in extracting medical entities.
 
 | Category | Precision | Recall | F1-score |
-| ---| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | AGE | 0.9893 | 0.9392 | 0.9636 |
 | DATE | 0.9915 | 0.9886 | 0.9900 |
 | GENDER | 1.0000 | 0.9813 | 0.9905 |
@@ -82,6 +82,20 @@ The model's performance was evaluated using precision, recall, and F1-score metr
 | PATIENT_ID | 0.9975 | 0.9852 | 0.9913 |
 | SYMPTOM_AND_DISEASE | 0.9983 | 0.8904 | 0.9413 |
 | TRANSPORTATION | 0.9908 | 0.9782 | 0.9844 |
+
+| Category              | Precision | Recall | F1-score |
+|-----------------------|-----------|--------|----------|
+| AGE                   | 0.9893    | 0.9392 | 0.9636   |
+| DATE                  | 0.9915    | 0.9886 | 0.9900   |
+| GENDER                | 1.0000    | 0.9813 | 0.9905   |
+| JOB                   | 0.9864    | 0.7415 | 0.8466   |
+| LOCATION              | 0.9819    | 0.9495 | 0.9655   |
+| NAME                  | 0.9782    | 0.9404 | 0.9589   |
+| ORGANIZATION          | 0.9621    | 0.9069 | 0.9337   |
+| PATIENT_ID            | 0.9975    | 0.9852 | 0.9913   |
+| SYMPTOM_AND_DISEASE   | 0.9983    | 0.8904 | 0.9413   |
+| TRANSPORTATION        | 0.9908    | 0.9782 | 0.9844   |
+
 
 - **Challenges:** Included limited labeled data, complex entity relationships, and the need for extensive computational resources for fine-tuning.
 
