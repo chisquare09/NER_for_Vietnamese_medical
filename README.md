@@ -49,7 +49,7 @@ The project is trained on the **PhoNER_COVID19 dataset**, which includes:
 ### Data Preprocessing
 
 Key preprocessing steps include:
-- **Text Normalization and Segmentation:** Using RDGSegmenter from VnCoreNLP.
+- **Sentence Segmentation:** Using RDGSegmenter from VnCoreNLP.
 - **Tokenization:** Performed with the PhoBERT AutoTokenizer to prepare data for training.
 
 ### Model Implementation
