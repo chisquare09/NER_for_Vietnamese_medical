@@ -1,0 +1,6 @@
+seqeval
+py_vncorenlp
+torch
+transformers
+
+
