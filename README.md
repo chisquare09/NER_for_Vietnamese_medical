@@ -88,7 +88,7 @@ The model's performance was evaluated using precision, recall, and F1-score metr
 
 ## Model Demo
 
-You can see a demo of the project along with the source code [here](https://github.com/chisquare09/NER_for_Vietnamese_medical/blob/main/Final_NLP.ipynb):
+You can see a demo of the project along with the source code [here](https://github.com/chisquare09/NER_for_Vietnamese_medical/blob/main/Final_NLP.ipynb)
 
 ## Conclusion
 
